@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Suit name = "Regression">
+<Test name = "Test">
+<Classes>
+<class name="Pages.nowtest"/>
+</Classes>
+
+</Test>
+</Suit>
